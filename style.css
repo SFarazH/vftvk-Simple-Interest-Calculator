@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: turquoise;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,7 +30,7 @@ body {
 .heading {
     font-size: 3rem;
     text-align: center;
-    color: coral;
+    color: lightgray;
     margin-bottom: 2rem;
 }
 
@@ -55,9 +55,6 @@ input {
     font-weight: bold;
 }
 
-/*.yellow {
-    color: yellow;
-}*/
 
 #val {
     width: 5rem;
